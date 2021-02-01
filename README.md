@@ -1,5 +1,5 @@
 <p align='center';>
-<img src="./.github/logo" width='250' >
+<img src="./.github/logo.png" width='250' >
 </ p>
 
 O NLW é um evento online com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
