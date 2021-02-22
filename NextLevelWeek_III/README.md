@@ -11,8 +11,6 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
-
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
 </p>
 
@@ -80,7 +78,7 @@ Example:
 
     # yarn
 
-    $ yarn typeform migration:run
+    $ yarn typeorm migration:run
 
     # npm
 
@@ -93,7 +91,7 @@ Example:
     # Apaga a última migração feita
     # Para excluir ambos execute duas vezes ou exclua as tabelas diretamente do seu sgbd
 
-    $ yarn typeform migration:revert
+    $ yarn typeorm migration:revert
 
     # npm
 
@@ -151,5 +149,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Este projeto foi desenvolvido duranda a NLW III sob a tutoria de Diego Fernandes e Mayk Brito
-Vocẽ pode participar da comunidade Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Este projeto foi desenvolvido duranda a NLW III sob a tutoria de Mayk Brito
+:wave: [Participe da comunidade Rocketseat!](https://discordapp.com/invite/gCRAFhc)
