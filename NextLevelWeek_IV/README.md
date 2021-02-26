@@ -11,11 +11,11 @@
 
 <p align="center">
   <a href="#-schedule">Schedule</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-deploy-the-project-at-vercel">How to deploy the project at vercel</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
+  <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Como Começar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-deploy-the-project-at-vercel">Faça o deploy do seu projeto com vercel</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-preview">Confira</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">Licença</a>
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ Dentro do diretório do projeto, execute `vercel` para iniciar o deployment da s
 [![Deploy with Vercel](https://vercel.com/button)](https://moveit-smoky-ten.vercel.app/)
 
 
-## 📝 License
+## 📝 Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o [LICENSE](LICENSE.md) arquivo para obter detalhes.
 
