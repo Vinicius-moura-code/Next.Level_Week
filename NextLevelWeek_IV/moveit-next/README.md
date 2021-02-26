@@ -89,4 +89,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 ---
 
 
-<p align="center">Developed with 💜 by Laércio Almeida</p>
+<p align="center">Developed</p>
