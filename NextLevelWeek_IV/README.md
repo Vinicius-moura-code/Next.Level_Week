@@ -70,7 +70,7 @@ Recreation of the project with Next.js
 
 # Rode o comando vercel
 `vercel login`
-Dentro do diretório do projeto, execute `vercel` para iniciar o deployment da sua aplicação.
+# Dentro do diretório do projeto, execute `vercel` para iniciar o deployment da sua aplicação.
 ```
 
 ## 🔥 Confira
