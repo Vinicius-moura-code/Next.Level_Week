@@ -5,7 +5,7 @@
 <h1 align="center"> Next Level Week #4</h1>
 
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src=".github/logo.svg" />
+    <img alt="Move.it" title="Move.it" src=".github/logo-full.svg" />
 </h1>
 
 
