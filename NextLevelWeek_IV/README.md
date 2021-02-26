@@ -5,7 +5,7 @@
 <h1 align="center"> Next Level Week #4</h1>
 
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src=".github/icon.svg" />
+    <img alt="Move.it" title="Move.it" src=".github/logo.svg" />
 </h1>
 
 
@@ -28,16 +28,15 @@
 ## 📅 Cronograma
 
 Este evento teve cinco dias, de segunda a sexta-feira, com materiais exclusivos e gratuitos, separados em:
-- [x] "Em direção ao próximo nível"
-- [x] "Desvendando Next.js"
+- [x] "Rumo ao próximo nível"
+- [x] "Desvendando o Next.js"
 - [x] "Contexto e componentes"
-- [x] "Armazenamento, SSR e Lambda"
-- [x] "Próximo nível com React e Próximo nível com React"
+- [x] "Melhorando a usabilidade da aplicação"
+- [x] "Próximo nível com React"
 ---
 ## 🚀 Tecnologias
 
-The project is being developed using the following technologies:
-
+O projeto possuí as seguintes técnologias:
 - Yarn
 - CSS
 - JavaScript
@@ -46,7 +45,7 @@ The project is being developed using the following technologies:
 - Next.js
 ---
 
-## ⌨ Getting started
+## ⌨ Como Começar
 
 ```bash
 # Getting Started with Create React App
@@ -63,15 +62,15 @@ Recreation of the project with Next.js
 `https://github.com/vercel/next.js`
 ```
 
-## 🏨 How to deploy the project at vercel
+## 🏨 Faça o deploy do seu projeto com vercel
 
 ```bash
-# Getting Started with installing vercel cli globally
+# Comece instalando a cli vercel de forma global
 `yarn global add vercel`
 
-# Run vercel commands
-`yarn login`
-And in the project directory, execute the command `vercel` to start the application deployment
+# Rode o comando vercel
+`vercel login`
+Dentro do diretório do projeto, execute `vercel` para iniciar o deployment da sua aplicação.
 ```
 
 ## 🔥 Confira
@@ -86,4 +85,4 @@ Este projeto está licenciado sob a Licença MIT. Veja o [LICENSE](LICENSE.md) a
 ---
 
 
-<p align="center">Developed with 💜 by Vinicius Moura</p>
+<p align="center">Developed with 🖤 by Vinicius Moura</p>
