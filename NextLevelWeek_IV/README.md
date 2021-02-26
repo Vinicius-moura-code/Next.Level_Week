@@ -1,9 +1,11 @@
-<h1 align="center">#Next Level Week, fourth edition, project "Move.it".</h1>
+<h1 align="center">
+    <img alt="nlw" title="nlw" src=".github/icon.svg" />
+</h1>
 
-**Move.it**, an open source project developed during Next Level Week # 4, which took place between 22/02 until 27/02, from the [Rocketseat](https://github.com/rocketseat) class, by the Rocketseat CTO, [Diego Fernandes](https://github.com/diego3g).
+<h1 align="center"> Next Level Week #4</h1>
 
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src=".github/moveit.svg" />
+    <img alt="Move.it" title="Move.it" src=".github/icon.svg" />
 </h1>
 
 
@@ -18,26 +20,21 @@
 
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/Laercio2/Next-Level-Week-4?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
-
-  <img src="https://img.shields.io/github/stars/Laercio2/Next-Level-Week-4?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
 </p>
 
 <br>
 
 ---
-## 📅 Schedule
+## 📅 Cronograma
 
-This event had five days, from Monday to Friday, with exclusive and free materials, separated into:
-- [x] "Towards the next level"
-- [x] "Unraveling Next.js"
-- [x] "Context and components"
-- [x] "Storage, SSR & Lambda"
-- [x] "Next level with React & Next level with React"
-
+Este evento teve cinco dias, de segunda a sexta-feira, com materiais exclusivos e gratuitos, separados em:
+- [x] "Em direção ao próximo nível"
+- [x] "Desvendando Next.js"
+- [x] "Contexto e componentes"
+- [x] "Armazenamento, SSR e Lambda"
+- [x] "Próximo nível com React e Próximo nível com React"
 ---
-## 🚀 Technologies
+## 🚀 Tecnologias
 
 The project is being developed using the following technologies:
 
@@ -77,16 +74,16 @@ Recreation of the project with Next.js
 And in the project directory, execute the command `vercel` to start the application deployment
 ```
 
-## 🔥 Preview
+## 🔥 Confira
 
-[![Deploy with Vercel](https://vercel.com/button)](https://moveit-laercio2.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://moveit-smoky-ten.vercel.app/)
 
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+Este projeto está licenciado sob a Licença MIT. Veja o [LICENSE](LICENSE.md) arquivo para obter detalhes.
 
 ---
 
 
-<p align="center">Developed with 💜 by Laércio Almeida</p>
+<p align="center">Developed with 💜 by Vinicius Moura</p>
