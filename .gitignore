@@ -54,3 +54,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+esports/server/package-lock.json
+esports/web/yarn.lock
+esports/mobile/yarn.lock
