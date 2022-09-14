@@ -57,3 +57,4 @@ yarn-error.log*
 esports/server/package-lock.json
 esports/web/yarn.lock
 esports/mobile/yarn.lock
+esports/server/.env
